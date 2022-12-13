@@ -35,7 +35,7 @@
 |032|Tensei Shitara Slime Datta Ken                       | Completo        | T:02 E:12   |
 |033|Jujutsu Kaisen                                       | Completo        | T:01 E:24   |
 |034|Tate no Yūsha no Nariagari                           | Completo        | T:01 E:25   |
-|035|Xian Wang de Richang Shenghuo                        | T:02 E:12       |             |
+|035|Xian Wang de Richang Shenghuo                        | T:03 E:07       |             |
 |036|Black Bullet                                         | Completo        | T:01 E:12   |
 |037|Arifureta Shokugyou de Sekai Saikyou                 | Completo        | T:02 E:13   |
 |038|Ore Dake Haireru Kakushi Dungeon                     | T:-- E:--       |             |
@@ -56,7 +56,7 @@
 |053|Quanzhi Fashi                                        | T:-- E:--       |             |
 |054|Otome Game Sekai wa Mob ni Kibishii Sekai Desu       | Completo        | T:01 E:12   |
 |055|Death Parade                                         | Completo        | T:01 E:12   |
-|056|                                                     | T:-- E:--       |             |
+|056|Gate: Jieitai Kanochi Nite, Kaku Tatakaeri           | T:01 E:11       |             |
 |057|                                                     | T:-- E:--       |             |
 |058|                                                     | T:-- E:--       |             |
 |059|                                                     | T:-- E:--       |             |
@@ -72,5 +72,5 @@
 |002|Brooklyn Nine-Nine                                   | T:05 E:02       |             |
 |003|The Good Doctor                                      | T:01 E:12       |             |
 |004|The Big Bang Theory                                  | T:03 E:14       |             |
-|005|Sobrenatural                                         | T:09 E:06       |             |
+|005|Sobrenatural                                         | T:09 E:19       |             |
 |=========================================================================================|
