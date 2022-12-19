@@ -23,7 +23,7 @@
 |020|Bleach                                               | T:?? E:?? (119) |             |
 |021|Akashic Records of Bastard Magic Instructor          | Completo        |             |
 |022|Darling in the Franxx                                | Completo        |             |
-|023|Overlord                                             | T:04 E:05       |             |
+|023|Overlord                                             | Completo        | T:04 E:13   |
 |024|Kimetsu no Yaiba                                     | T:-- E:--       |             |
 |025|Sakamoto Desu Ga?                                    | Completo        | T:01 E:15   |
 |026|Kyoukai no Kanata                                    | T:-- E:--       |             |
@@ -35,7 +35,7 @@
 |032|Tensei Shitara Slime Datta Ken                       | Completo        | T:02 E:12   |
 |033|Jujutsu Kaisen                                       | Completo        | T:01 E:24   |
 |034|Tate no Yūsha no Nariagari                           | Completo        | T:01 E:25   |
-|035|Xian Wang de Richang Shenghuo                        | T:03 E:07       |             |
+|035|Xian Wang de Richang Shenghuo                        | T:03 E:10       |             |
 |036|Black Bullet                                         | Completo        | T:01 E:12   |
 |037|Arifureta Shokugyou de Sekai Saikyou                 | Completo        | T:02 E:13   |
 |038|Ore Dake Haireru Kakushi Dungeon                     | T:-- E:--       |             |
