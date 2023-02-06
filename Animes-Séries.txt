@@ -1,76 +1,76 @@
-|=========================================================================================|
-|   |Título                                               | Estado          | Último ep.  |
-|---|-----------------------------------------------------|-----------------|-------------|
-|001|Naruto                                               | Completo        | (220)       |
-|002|Naruto Shippuden                                     | Completo        | (500)       |
-|003|Boruto                                               | T:?? E:?? (239) |             |
-|004|Death Note                                           | Completo        |             |
-|005|Saiki Kusuo no Psi-Nan                               | Completo        |             |
-|006|Saiki Kusuo no Psi-Nan: REATIVADO                    | Completo        | T:01 E:06   |
-|007|Sword Art Online-Aincrad                             | Completo        |             |
-|008|Sword Art Online II                                  | Completo        |             |
-|009|Sword Art Online: Alternative: Gun Gale Online       | Completo        |             |
-|010|Sword Art Online: Alicization                        | Completo        |             |
-|011|Sword Art Online: Alicization War of Underworld      | Completo        |             |
-|012|One Punch Man                                        | Completo        | T:02 E:12   |
-|013|Castlevania                                          | Completo        | T:03 E:10   |
-|014|Fullmetal Alchemist                                  | Completo        |             |
-|015|Fullmetal Alchemist: Brotherhood                     | Completo        |             |
-|016|Boku no Hero                                         | T:05 E:07       |             |
-|017|Ao no Ekusoshisuto                                   | Completo        |             |
-|018|No Game no Life                                      | Completo        |             |
-|019|Shingeki no Kyojin                                   | T:04 E:02       |             |
-|020|Bleach                                               | T:?? E:?? (119) |             |
-|021|Akashic Records of Bastard Magic Instructor          | Completo        |             |
-|022|Darling in the Franxx                                | Completo        |             |
-|023|Overlord                                             | Completo        | T:04 E:13   |
-|024|Kimetsu no Yaiba                                     | T:-- E:--       |             |
-|025|Sakamoto Desu Ga?                                    | Completo        | T:01 E:15   |
-|026|Kyoukai no Kanata                                    | T:-- E:--       |             |
-|027|Rikei ga Koi ni Ochita no de Shoumeishitemita        | Compelto        | T:01 E:12   |
-|028|Dokutaa Sutoon                                       | Completo        | T:02 E:11   |
-|029|Kono Subarashi Sekai ni Shukufuku wo                 | Completo        | T:02 E:11   |
-|030|Kakegurui                                            | Completo        | T:02 E:12   |
-|031|Code Geass: Lulouch of the Rebelion                  | Completo        | T:02 E:05   |
-|032|Tensei Shitara Slime Datta Ken                       | Completo        | T:02 E:12   |
-|033|Jujutsu Kaisen                                       | Completo        | T:01 E:24   |
-|034|Tate no Yūsha no Nariagari                           | Completo        | T:01 E:25   |
-|035|Xian Wang de Richang Shenghuo                        | T:03 E:10       |             |
-|036|Black Bullet                                         | Completo        | T:01 E:12   |
-|037|Arifureta Shokugyou de Sekai Saikyou                 | Completo        | T:02 E:13   |
-|038|Ore Dake Haireru Kakushi Dungeon                     | T:-- E:--       |             |
-|039|Maou Gakuin no Futekigousha                          | Completo        | T:01 E:13   |
-|040|Komi-san ha, Komyushou Desu                          | Completo        | T:02 E:12   |
-|041|Tenshura Nikki: Tensei Shitara Slime Datta Ken       | T:01 E:05       |             |
-|042|Hataraku Maou-sama                                   | T:01 E:08       |             |
-|043|Mahou Tsukai no Yome                                 | T:-- E:--       |             |
-|044|Gokushufudou                                         | T:02 E:03       |             |
-|045|Shokkakumon no Saikyou Kenja                         | Completo        | T:01 E:12   |
-|046|Moshoku Tensei: Isekai Ittara Honki Dasu             | Completo        | T:01 E:24   |
-|047|Spy x Family                                         | Completo        | T:01 E:12   |
-|048|Shijou Saikyou no Daimaou, Murabito a Ni Tensei Suru | Completo        | T:01 E:12   |
-|049|Kinsou no Vermil                                     | T:-- E:--       |             |
-|050|Blood C                                              | T:-- E:--       |             |
-|051|Platinum End                                         | T:-- E:--       |             |
-|052|Tensei Kenja no Isekai Life                          | T:-- E:--       |             |
-|053|Quanzhi Fashi                                        | T:-- E:--       |             |
-|054|Otome Game Sekai wa Mob ni Kibishii Sekai Desu       | Completo        | T:01 E:12   |
-|055|Death Parade                                         | Completo        | T:01 E:12   |
-|056|Gate: Jieitai Kanochi Nite, Kaku Tatakaeri           | Completo        | T:02 E:12   |
-|057|Chainsaw Man                                         | T:01 E:10       |             |
-|058|                                                     | T:-- E:--       |             |
-|059|                                                     | T:-- E:--       |             |
-|060|                                                     | T:-- E:--       |             |
-|:::|:::::::::::::::::::::::::::::::::::::::::::::::::::::|:::::::::::::::::|:::::::::::::|
-|001|Star Wars: The Clone Wars                            | Completo        |             |
-|002|(DES)Encanto                                         | T:02 E:04       |             |
-|003|BoJack Horseman                                      | T:01 E:11       |             |
-|004|Love, Death & Robots                                 | T:02 E:08       |             |
-|005|                                                     | T:-- E:--       |             |
-|:::|:::::::::::::::::::::::::::::::::::::::::::::::::::::|:::::::::::::::::|:::::::::::::|
-|001|The Walking Dead                                     | T:08 E:04       |             |
-|002|Brooklyn Nine-Nine                                   | T:05 E:02       |             |
-|003|The Good Doctor                                      | T:01 E:12       |             |
-|004|The Big Bang Theory                                  | T:03 E:14       |             |
-|005|Sobrenatural                                         | T:09 E:19       |             |
-|=========================================================================================|
+|=================================================================================================|
+|   |Título                                                       | Estado          | Último ep.  |
+|---|-------------------------------------------------------------|-----------------|-------------|
+|001|Naruto                                                       | Completo        | (220)       |
+|002|Naruto Shippuden                                             | Completo        | (500)       |
+|003|Boruto                                                       | T:?? E:?? (239) |             |
+|004|Death Note                                                   | Completo        |             |
+|005|Saiki Kusuo no Psi-Nan                                       | Completo        |             |
+|006|Saiki Kusuo no Psi-Nan: REATIVADO                            | Completo        | T:01 E:06   |
+|007|Sword Art Online-Aincrad                                     | Completo        |             |
+|008|Sword Art Online II                                          | Completo        |             |
+|009|Sword Art Online: Alternative: Gun Gale Online               | Completo        |             |
+|010|Sword Art Online: Alicization                                | Completo        |             |
+|011|Sword Art Online: Alicization War of Underworld              | Completo        |             |
+|012|One Punch Man                                                | Completo        | T:02 E:12   |
+|013|Castlevania                                                  | Completo        | T:03 E:10   |
+|014|Fullmetal Alchemist                                          | Completo        |             |
+|015|Fullmetal Alchemist: Brotherhood                             | Completo        |             |
+|016|Boku no Hero                                                 | T:05 E:07       |             |
+|017|Ao no Ekusoshisuto                                           | Completo        |             |
+|018|No Game no Life                                              | Completo        |             |
+|019|Shingeki no Kyojin                                           | T:04 E:02       |             |
+|020|Bleach                                                       | T:?? E:?? (119) |             |
+|021|Akashic Records of Bastard Magic Instructor                  | Completo        |             |
+|022|Darling in the Franxx                                        | Completo        |             |
+|023|Overlord                                                     | Completo        | T:04 E:13   |
+|024|Kimetsu no Yaiba                                             | T:-- E:--       |             |
+|025|Sakamoto Desu Ga?                                            | Completo        | T:01 E:15   |
+|026|Kyoukai no Kanata                                            | T:-- E:--       |             |
+|027|Rikei ga Koi ni Ochita no de Shoumeishitemita                | Compelto        | T:01 E:12   |
+|028|Dokutaa Sutoon                                               | Completo        | T:02 E:11   |
+|029|Kono Subarashi Sekai ni Shukufuku wo                         | Completo        | T:02 E:11   |
+|030|Kakegurui                                                    | Completo        | T:02 E:12   |
+|031|Code Geass: Lulouch of the Rebelion                          | Completo        | T:02 E:05   |
+|032|Tensei Shitara Slime Datta Ken                               | Completo        | T:02 E:12   |
+|033|Jujutsu Kaisen                                               | Completo        | T:01 E:24   |
+|034|Tate no Yūsha no Nariagari                                   | Completo        | T:01 E:25   |
+|035|Xian Wang de Richang Shenghuo                                | T:03 E:10       |             |
+|036|Black Bullet                                                 | Completo        | T:01 E:12   |
+|037|Arifureta Shokugyou de Sekai Saikyou                         | Completo        | T:02 E:13   |
+|038|Ore Dake Haireru Kakushi Dungeon                             | T:-- E:--       |             |
+|039|Maou Gakuin no Futekigousha                                  | T:02 E:02       |             |
+|040|Komi-san ha, Komyushou Desu                                  | Completo        | T:02 E:12   |
+|041|Tenshura Nikki: Tensei Shitara Slime Datta Ken               | T:01 E:05       |             |
+|042|Hataraku Maou-sama                                           | T:01 E:08       |             |
+|043|Mahou Tsukai no Yome                                         | T:-- E:--       |             |
+|044|Gokushufudou                                                 | T:02 E:03       |             |
+|045|Shokkakumon no Saikyou Kenja                                 | Completo        | T:01 E:12   |
+|046|Moshoku Tensei: Isekai Ittara Honki Dasu                     | Completo        | T:01 E:24   |
+|047|Spy x Family                                                 | Completo        | T:01 E:12   |
+|048|Shijou Saikyou no Daimaou, Murabito a Ni Tensei Suru         | Completo        | T:01 E:12   |
+|049|Kinsou no Vermil                                             | T:-- E:--       |             |
+|050|Blood C                                                      | T:-- E:--       |             |
+|051|Platinum End                                                 | T:-- E:--       |             |
+|052|Tensei Kenja no Isekai Life                                  | T:-- E:--       |             |
+|053|Quanzhi Fashi                                                | T:-- E:--       |             |
+|054|Otome Game Sekai wa Mob ni Kibishii Sekai Desu               | Completo        | T:01 E:12   |
+|055|Death Parade                                                 | Completo        | T:01 E:12   |
+|056|Gate: Jieitai Kanochi Nite, Kaku Tatakaeri                   | Completo        | T:02 E:12   |
+|057|Chainsaw Man                                                 | T:01 E:10       |             |
+|058|Kaguya-sama wa Kokurasetai: Tenshi-tachi no Renai Zunousen   | T:-- E:--       |             |
+|059|                                                             | T:-- E:--       |             |
+|060|                                                             | T:-- E:--       |             |
+|:::|:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|:::::::::::::::::|:::::::::::::|
+|001|Star Wars: The Clone Wars                                    | Completo        |             |
+|002|(DES)Encanto                                                 | T:02 E:04       |             |
+|003|BoJack Horseman                                              | T:01 E:11       |             |
+|004|Love, Death & Robots                                         | T:02 E:08       |             |
+|005|                                                             | T:-- E:--       |             |
+|:::|:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|:::::::::::::::::|:::::::::::::|
+|001|The Walking Dead                                             | T:08 E:04       |             |
+|002|Brooklyn Nine-Nine                                           | T:05 E:02       |             |
+|003|The Good Doctor                                              | T:01 E:12       |             |
+|004|The Big Bang Theory                                          | T:03 E:14       |             |
+|005|Sobrenatural                                                 | T:09 E:23       |             |
+|=================================================================================================|
