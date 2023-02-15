@@ -16,7 +16,7 @@
 |013|Castlevania                                                  | Completo        | T:03 E:10   |
 |014|Fullmetal Alchemist                                          | Completo        |             |
 |015|Fullmetal Alchemist: Brotherhood                             | Completo        |             |
-|016|Boku no Hero                                                 | T:05 E:07       |             |
+|016|Boku no Hero                                                 | T:05 E:08       |             |
 |017|Ao no Ekusoshisuto                                           | Completo        |             |
 |018|No Game no Life                                              | Completo        |             |
 |019|Shingeki no Kyojin                                           | T:04 E:02       |             |
@@ -39,7 +39,7 @@
 |036|Black Bullet                                                 | Completo        | T:01 E:12   |
 |037|Arifureta Shokugyou de Sekai Saikyou                         | Completo        | T:02 E:13   |
 |038|Ore Dake Haireru Kakushi Dungeon                             | T:-- E:--       |             |
-|039|Maou Gakuin no Futekigousha                                  | T:02 E:02       |             |
+|039|Maou Gakuin no Futekigousha                                  | T:02 E:05       |             |
 |040|Komi-san ha, Komyushou Desu                                  | Completo        | T:02 E:12   |
 |041|Tenshura Nikki: Tensei Shitara Slime Datta Ken               | T:01 E:05       |             |
 |042|Hataraku Maou-sama                                           | T:01 E:08       |             |
@@ -58,7 +58,7 @@
 |055|Death Parade                                                 | Completo        | T:01 E:12   |
 |056|Gate: Jieitai Kanochi Nite, Kaku Tatakaeri                   | Completo        | T:02 E:12   |
 |057|Chainsaw Man                                                 | T:01 E:10       |             |
-|058|Kaguya-sama wa Kokurasetai: Tenshi-tachi no Renai Zunousen   | T:-- E:--       |             |
+|058|Kaguya-sama wa Kokurasetai: Tenshi-tachi no Renai Zunousen   | T:01 E:02       |             |
 |059|                                                             | T:-- E:--       |             |
 |060|                                                             | T:-- E:--       |             |
 |:::|:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|:::::::::::::::::|:::::::::::::|
@@ -72,5 +72,5 @@
 |002|Brooklyn Nine-Nine                                           | T:05 E:02       |             |
 |003|The Good Doctor                                              | T:01 E:12       |             |
 |004|The Big Bang Theory                                          | T:03 E:14       |             |
-|005|Sobrenatural                                                 | T:09 E:23       |             |
+|005|Sobrenatural                                                 | T:10 E:04       |             |
 |=================================================================================================|
