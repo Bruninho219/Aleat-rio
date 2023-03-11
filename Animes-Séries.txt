@@ -3,7 +3,7 @@
 |---|-------------------------------------------------------------|-----------------|-------------|
 |001|Naruto                                                       | Completo        | (220)       |
 |002|Naruto Shippuden                                             | Completo        | (500)       |
-|003|Boruto                                                       | T:?? E:?? (239) |             |
+|003|Boruto                                                       | T:?? E:?? (243) |             |
 |004|Death Note                                                   | Completo        |             |
 |005|Saiki Kusuo no Psi-Nan                                       | Completo        |             |
 |006|Saiki Kusuo no Psi-Nan: REATIVADO                            | Completo        | T:01 E:06   |
@@ -72,5 +72,5 @@
 |002|Brooklyn Nine-Nine                                           | T:05 E:02       |             |
 |003|The Good Doctor                                              | T:01 E:12       |             |
 |004|The Big Bang Theory                                          | T:03 E:14       |             |
-|005|Sobrenatural                                                 | T:10 E:04       |             |
+|005|Sobrenatural                                                 | T:11 E:04       |             |
 |=================================================================================================|
