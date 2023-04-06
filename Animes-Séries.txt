@@ -34,7 +34,7 @@
 |031|Code Geass: Lulouch of the Rebelion                          | Completo        | T:02 E:05   |
 |032|Tensei Shitara Slime Datta Ken                               | Completo        | T:02 E:12   |
 |033|Jujutsu Kaisen                                               | Completo        | T:01 E:24   |
-|034|Tate no Yūsha no Nariagari                                   | T:02 E:06       |             |
+|034|Tate no Yūsha no Nariagari                                   | Completo        | T:02 E:13   |
 |035|Xian Wang de Richang Shenghuo                                | T:03 E:10       |             |
 |036|Black Bullet                                                 | Completo        | T:01 E:12   |
 |037|Arifureta Shokugyou de Sekai Saikyou                         | Completo        | T:02 E:13   |
@@ -57,9 +57,9 @@
 |054|Otome Game Sekai wa Mob ni Kibishii Sekai Desu               | Completo        | T:01 E:12   |
 |055|Death Parade                                                 | Completo        | T:01 E:12   |
 |056|Gate: Jieitai Kanochi Nite, Kaku Tatakaeri                   | Completo        | T:02 E:12   |
-|057|Chainsaw Man                                                 | T:01 E:10       |             |
+|057|Chainsaw Man                                                 | Completo        | T:01 E:12   |
 |058|Kaguya-sama wa Kokurasetai: Tenshi-tachi no Renai Zunousen   | T:01 E:02       |             |
-|059|                                                             | T:-- E:--       |             |
+|059|Jigokuraku                                                   | T:01 E:01       |             |
 |060|                                                             | T:-- E:--       |             |
 |:::|:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|:::::::::::::::::|:::::::::::::|
 |001|Star Wars: The Clone Wars                                    | Completo        |             |
@@ -72,5 +72,5 @@
 |002|Brooklyn Nine-Nine                                           | T:05 E:02       |             |
 |003|The Good Doctor                                              | T:01 E:12       |             |
 |004|The Big Bang Theory                                          | T:03 E:14       |             |
-|005|Sobrenatural                                                 | T:12 E:14       |             |
+|005|Sobrenatural                                                 | T:13 E:11       |             |
 |=================================================================================================|
