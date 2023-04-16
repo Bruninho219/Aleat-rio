@@ -60,7 +60,12 @@
 |057|Chainsaw Man                                                 | Completo        | T:01 E:12   |
 |058|Kaguya-sama wa Kokurasetai: Tenshi-tachi no Renai Zunousen   | T:01 E:02       |             |
 |059|Jigokuraku                                                   | T:01 E:01       |             |
-|060|                                                             | T:-- E:--       |             |
+|060|7 Seeds                                                      | T:01 E:04       |             |
+|061|                                                             | T:-- E:--       |             |
+|062|                                                             | T:-- E:--       |             |
+|063|                                                             | T:-- E:--       |             |
+|063|                                                             | T:-- E:--       |             |
+|065|                                                             | T:-- E:--       |             |
 |:::|:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|:::::::::::::::::|:::::::::::::|
 |001|Star Wars: The Clone Wars                                    | Completo        |             |
 |002|(DES)Encanto                                                 | T:02 E:04       |             |
