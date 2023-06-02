@@ -3,7 +3,7 @@
 |---|-------------------------------------------------------------|-----------------|-------------|
 |001|Naruto                                                       | Completo        | (220)       |
 |002|Naruto Shippuden                                             | Completo        | (500)       |
-|003|Boruto                                                       | T:?? E:?? (243) |             |
+|003|Boruto                                                       | T:?? E:?? (259) |             |
 |004|Death Note                                                   | Completo        |             |
 |005|Saiki Kusuo no Psi-Nan                                       | Completo        |             |
 |006|Saiki Kusuo no Psi-Nan: REATIVADO                            | Completo        | T:01 E:06   |
@@ -35,7 +35,7 @@
 |032|Tensei Shitara Slime Datta Ken                               | Completo        | T:02 E:12   |
 |033|Jujutsu Kaisen                                               | Completo        | T:01 E:24   |
 |034|Tate no Yūsha no Nariagari                                   | Completo        | T:02 E:13   |
-|035|Xian Wang de Richang Shenghuo                                | T:03 E:10       |             |
+|035|Xian Wang de Richang Shenghuo                                | Completo        | T:03 E:12   |
 |036|Black Bullet                                                 | Completo        | T:01 E:12   |
 |037|Arifureta Shokugyou de Sekai Saikyou                         | Completo        | T:02 E:13   |
 |038|Ore Dake Haireru Kakushi Dungeon                             | T:-- E:--       |             |
@@ -77,5 +77,10 @@
 |002|Brooklyn Nine-Nine                                           | T:05 E:02       |             |
 |003|The Good Doctor                                              | T:01 E:12       |             |
 |004|The Big Bang Theory                                          | T:03 E:14       |             |
-|005|Sobrenatural                                                 | T:13 E:11       |             |
+|005|Sobrenatural                                                 | Completo        | T:15 E:20   |
+|006|                                                             |                 |             |
+|007|                                                             |                 |             |
+|008|                                                             |                 |             |
+|009|                                                             |                 |             |
+|010|                                                             |                 |             |
 |=================================================================================================|
