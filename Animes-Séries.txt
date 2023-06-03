@@ -31,40 +31,40 @@
 |028|Dokutaa Sutoon                                               | Completo        | T:02 E:11   |
 |029|Kono Subarashi Sekai ni Shukufuku wo                         | Completo        | T:02 E:11   |
 |030|Kakegurui                                                    | Completo        | T:02 E:12   |
-|031|Code Geass: Lulouch of the Rebelion                          | Completo        | T:02 E:05   |
-|032|Tensei Shitara Slime Datta Ken                               | Completo        | T:02 E:12   |
-|033|Jujutsu Kaisen                                               | Completo        | T:01 E:24   |
-|034|Tate no Yūsha no Nariagari                                   | Completo        | T:02 E:13   |
-|035|Xian Wang de Richang Shenghuo                                | Completo        | T:03 E:12   |
-|036|Black Bullet                                                 | Completo        | T:01 E:12   |
-|037|Arifureta Shokugyou de Sekai Saikyou                         | Completo        | T:02 E:13   |
-|038|Ore Dake Haireru Kakushi Dungeon                             | T:-- E:--       |             |
-|039|Maou Gakuin no Futekigousha                                  | T:02 E:05       |             |
-|040|Komi-san ha, Komyushou Desu                                  | Completo        | T:02 E:12   |
-|041|Tenshura Nikki: Tensei Shitara Slime Datta Ken               | T:01 E:05       |             |
-|042|Hataraku Maou-sama                                           | T:01 E:08       |             |
-|043|Mahou Tsukai no Yome                                         | T:-- E:--       |             |
-|044|Gokushufudou                                                 | T:02 E:03       |             |
-|045|Shokkakumon no Saikyou Kenja                                 | Completo        | T:01 E:12   |
-|046|Moshoku Tensei: Isekai Ittara Honki Dasu                     | Completo        | T:01 E:24   |
-|047|Spy x Family                                                 | Completo        | T:01 E:12   |
-|048|Shijou Saikyou no Daimaou, Murabito a Ni Tensei Suru         | Completo        | T:01 E:12   |
-|049|Kinsou no Vermil                                             | T:-- E:--       |             |
-|050|Blood C                                                      | T:-- E:--       |             |
-|051|Platinum End                                                 | T:-- E:--       |             |
-|052|Tensei Kenja no Isekai Life                                  | T:-- E:--       |             |
-|053|Quanzhi Fashi                                                | T:-- E:--       |             |
-|054|Otome Game Sekai wa Mob ni Kibishii Sekai Desu               | Completo        | T:01 E:12   |
-|055|Death Parade                                                 | Completo        | T:01 E:12   |
-|056|Gate: Jieitai Kanochi Nite, Kaku Tatakaeri                   | Completo        | T:02 E:12   |
-|057|Chainsaw Man                                                 | Completo        | T:01 E:12   |
-|058|Kaguya-sama wa Kokurasetai: Tenshi-tachi no Renai Zunousen   | T:01 E:02       |             |
-|059|Jigokuraku                                                   | T:01 E:01       |             |
-|060|7 Seeds                                                      | T:01 E:04       |             |
-|061|                                                             | T:-- E:--       |             |
+|031|Kakegurui Twin                                               | T:01 E:03       |             |
+|032|Code Geass: Lulouch of the Rebelion                          | Completo        | T:02 E:05   |
+|033|Tensei Shitara Slime Datta Ken                               | Completo        | T:02 E:12   |
+|034|Jujutsu Kaisen                                               | Completo        | T:01 E:24   |
+|035|Tate no Yūsha no Nariagari                                   | Completo        | T:02 E:13   |
+|036|Xian Wang de Richang Shenghuo                                | Completo        | T:03 E:12   |
+|037|Black Bullet                                                 | Completo        | T:01 E:12   |
+|038|Arifureta Shokugyou de Sekai Saikyou                         | Completo        | T:02 E:13   |
+|039|Ore Dake Haireru Kakushi Dungeon                             | T:-- E:--       |             |
+|040|Maou Gakuin no Futekigousha                                  | T:02 E:05       |             |
+|041|Komi-san ha, Komyushou Desu                                  | Completo        | T:02 E:12   |
+|042|Tenshura Nikki: Tensei Shitara Slime Datta Ken               | T:01 E:05       |             |
+|043|Hataraku Maou-sama                                           | T:01 E:08       |             |
+|044|Mahou Tsukai no Yome                                         | T:-- E:--       |             |
+|045|Gokushufudou                                                 | T:02 E:03       |             |
+|046|Shokkakumon no Saikyou Kenja                                 | Completo        | T:01 E:12   |
+|047|Moshoku Tensei: Isekai Ittara Honki Dasu                     | Completo        | T:01 E:24   |
+|048|Spy x Family                                                 | Completo        | T:01 E:12   |
+|049|Shijou Saikyou no Daimaou, Murabito a Ni Tensei Suru         | Completo        | T:01 E:12   |
+|050|Kinsou no Vermil                                             | T:-- E:--       |             |
+|051|Blood C                                                      | T:-- E:--       |             |
+|052|Platinum End                                                 | T:-- E:--       |             |
+|053|Tensei Kenja no Isekai Life                                  | T:-- E:--       |             |
+|054|Quanzhi Fashi                                                | T:-- E:--       |             |
+|055|Otome Game Sekai wa Mob ni Kibishii Sekai Desu               | Completo        | T:01 E:12   |
+|056|Death Parade                                                 | Completo        | T:01 E:12   |
+|057|Gate: Jieitai Kanochi Nite, Kaku Tatakaeri                   | Completo        | T:02 E:12   |
+|058|Chainsaw Man                                                 | Completo        | T:01 E:12   |
+|059|Kaguya-sama wa Kokurasetai: Tenshi-tachi no Renai Zunousen   | T:01 E:02       |             |
+|060|Jigokuraku                                                   | T:01 E:01       |             |
+|061|7 Seeds                                                      | T:01 E:04       |             |
 |062|                                                             | T:-- E:--       |             |
 |063|                                                             | T:-- E:--       |             |
-|063|                                                             | T:-- E:--       |             |
+|064|                                                             | T:-- E:--       |             |
 |065|                                                             | T:-- E:--       |             |
 |:::|:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|:::::::::::::::::|:::::::::::::|
 |001|Star Wars: The Clone Wars                                    | Completo        |             |
